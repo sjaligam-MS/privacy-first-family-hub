@@ -37,11 +37,11 @@ Forwarded messages still exist in the dedicated Gmail account. This project ther
 ## Case-study contents
 
 - [User scenarios](user-scenarios.md)
-- [Privacy design](docs/privacy-design.md)
-- [Architecture](docs/architecture.md)
-- [Product decisions and tradeoffs](docs/decisions.md)
-- [Threat model](docs/threat-model.md)
-- [Roadmap](docs/roadmap.md)
+- [Privacy design](privacy-design.md)
+- [Architecture](architecture.md)
+- [Product decisions and tradeoffs](decisions.md)
+- [Threat model](threat-model.md)
+- [Roadmap](roadmap.md)
 
 ## What this repository is—and is not
 
