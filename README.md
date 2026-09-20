@@ -36,7 +36,7 @@ Forwarded messages still exist in the dedicated Gmail account. This project ther
 
 ## Case-study contents
 
-- [User scenarios](docs/user-scenarios.md)
+- [User scenarios](user-scenarios.md)
 - [Privacy design](docs/privacy-design.md)
 - [Architecture](docs/architecture.md)
 - [Product decisions and tradeoffs](docs/decisions.md)
