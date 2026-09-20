@@ -37,10 +37,4 @@ Before any external model is considered:
 4. Preserve parent review and provide a non-AI path.
 5. Revisit the threat model and public privacy claims.
 
-## Not currently planned
-
-- Advertising based on family or child data
-- Selling or sharing family data
-- Building a public child profile
-- Automatic actions without parent visibility
 
